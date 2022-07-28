@@ -1,0 +1,45 @@
+.navbar {
+  padding-top: 2rem;
+  font-family: "B612", sans-serif;
+  font-weight: 1000;
+  font-size: x-large;
+  color: #7254b0;
+}
+
+.column {
+  flex: 50%;
+}
+
+.column-left {
+  flex: 50%;
+}
+
+.welcome {
+  margin-top: 50%;
+  font-family: "B612", sans-serif;
+  font-size: 90px;
+}
+
+.description {
+  font-family: "B612", sans-serif;
+  font-weight: 100;
+  font-size: 25px;
+}
+
+.emotion {
+  margin-top: 50%;
+  font-family: "B612", sans-serif;
+  font-weight: 100;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+.row {
+  display: flex;
+}
+.PageContainer {
+  text-align: center;
+}
